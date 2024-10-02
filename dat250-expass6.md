@@ -9,7 +9,7 @@ During the lab, most of the experiments went relatively smoothly without any pro
 During the tutorial, there were parts where we could for example list the exchanges that we have. When i tried to do this on my machine, i got an error. It was something about `rabbitmqctl` and i felt that these parts were not very necessary and therefore didn't really spend time trying to fix the issue. The tutorial is very command line based mostly with Unix systems, while i mostly used the IDE on my Windows machine.
 
 ##### Link to code
-[Code for experiments 1-4]()
+[Code for experiments 1-4](https://github.com/dorica5/Expass6/tree/master/src/main/java/org/example)
 
 ##### Conclusion
 All in all this was a very fun and educational assignment. The RabbitMQ software is something i hadn't encountered before, and it was interesting seeing how messages could be implemented in an application.
